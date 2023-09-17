@@ -2,43 +2,43 @@
 	"strings":
 	{
 		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} saavutettu <color=#BDE151>{1}</color></color>",
-		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>You achieved <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>Sinä saavutit <color=#BDE151>{1}</color></color>",
 		
-		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Bookworm",
-		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Collect 10 Monster or Environment Logs.",
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Lukutoukka",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Kerää 10 Hirviö tai Ympäristö Lokeja.",
 
-		"ACHIEVEMENT_ATTACKSPEED_NAME": "Rapidfire",
-		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Reach +200% attack speed.",
+		"ACHIEVEMENT_ATTACKSPEED_NAME": "Pikatulitus",
+		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Saavuta +200% iskunopeus.",
 		
-		"ACHIEVEMENT_STAYALIVE1_NAME": "The Lone Survivor",
-		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Stay alive for 30 consecutive minutes.",
+		"ACHIEVEMENT_STAYALIVE1_NAME": "Ainoa Selviytyjä",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Pysy elossa 30 peräkkäistä minuuttia.",
 		
 		"ACHIEVEMENT_HARDHITTER_NAME": "Macho",
-		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Deal 5000 damage in one shot.",
+		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Tuota 5000 vahinkoa yhdellä iskulla.",
 
-		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Moon Worshipper",
-		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Carry 5 Lunar items in a single run.",
+		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Kuun Palvoja",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Kanna 5 Lunaarista esinettä yhden kierroksen aikana.",
 
-		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Glorious Battle",
-		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleporter with less than 10% health.",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Kunniakas Taistelu",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Lataa Teleportti, kun sinulla on alle 10% elämäpisteitä.",
 
-		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Ascendant",
-		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleporter bosses after activating 2 Shrines of the Mountain.",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Nouseva",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Päihitä Teleportti loppuvastus, kun olet aktivoinut 2 Vuorialttaria.",
 
-		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Advancement",
-		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleporter event.",
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Edistys",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Suorita Teleportti tapahtuma.",
 
-		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Warrior",
-		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Reach and complete the 3rd Teleporter event without dying.",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Soturi",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Saavuta ja suorita kolmas Teleportti tapahtuma kuolematta.",
 
-		"ACHIEVEMENT_DIE5TIMES_NAME": "Learning Process",
-		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Die 5 times.",
+		"ACHIEVEMENT_DIE5TIMES_NAME": "Oppimisprosessi",
+		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Kuole 5 kertaa.",
 
-		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Experimenting",
-		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Pick up 5 different types of Equipment.",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Kokeilua",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Nouki 5 erilaista Varustetta.",
 
-		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "The Long Road",
-		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Complete 20 stages in a single run.",
+		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "Pitkä Tie",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Suorita 20 tasoa yhdellä kierroksella.",
 
 		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Deicide",
 		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Monsoon difficulty.",
