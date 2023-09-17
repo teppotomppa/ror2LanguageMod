@@ -1,7 +1,7 @@
 ﻿{
 	"strings":
 	{
-		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} achieved <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} saavutettu <color=#BDE151>{1}</color></color>",
 		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>You achieved <color=#BDE151>{1}</color></color>",
 		
 		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Bookworm",
