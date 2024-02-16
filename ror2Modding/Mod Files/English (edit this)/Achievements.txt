@@ -40,326 +40,326 @@
 		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "Pitkä Tie",
 		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Suorita 20 tasoa yhdellä kierroksella.",
 
-		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Deicide",
-		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Monsoon difficulty.",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Jumalanmurhaaja",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Päihitä Eliitti päävihollinen Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Slaughter",
-		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Defeat 3000 enemies.",
+		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Teurastus",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Päihitä 3000 vihollista.",
 
-		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Elite Slayer",
-		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Defeat an Elite-type monster.",
+		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Eliitti surmaaja",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Päihitä Eliitti -tyypin hirviö.",
 
-		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Verified",
-		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleporter event 5 times.",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Vahvistettu",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Suoriudu ensimmäisestä Teleporttitapahtumasta 5 kertaa.",
 
-		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "One with the Woods",
-		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Fully upgrade a Shrine of the Woods.",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "Metsänhenki",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Päivitä Metsien Alttari täysin.",
 
-		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Mechanic",
-		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Repair 30 drones or turrets.",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Mekaanikko",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Korjaa 30 lennokkia tai tykkitornia.",
 
-		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Funded!",
-		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Collect $30,480 total gold.",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Rahoitettu!",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Kerää kultaa yhteensä $30,480.",
 
-		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[REDACTED]",
-		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Chest on Rallypoint Delta.",
+		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[PUHDISTETTU]",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Avaa Ajastettu Turvallisuuslaatikko Kokoontumispiste Daavidissa.",
 
-		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "The Demons And The Crabs",
-		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Kill 20 Hermit Crabs by chasing them off the edge of the map.",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "Demonit ja ravut",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Tapa 20 Erakkorapua jahtaamalla ne alas kartan reunasta.",
 		
-		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Multikill!",
-		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Kill 15 enemies simultaneously.",
+		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Moninkertainen tappo!",
+		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Tapa 15 vihollista samanaikaisesti.",
 		
-		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Prismatically Aligned",
-		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Complete a Prismatic Trial.",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Prismaattisesti Kohdistettu!",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Suorita Prismaattinen Koettelemus.",
 
-		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Death Do Us Part",
-		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Discover the hidden chamber in the Abandoned Aqueduct.",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Kuolema meidät erottaa",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Löydä piilotettu kammio Hylätyssä Akveduktissa.",
 
-		"ACHIEVEMENT_FREEMAGE_NAME": "Pause.",
-		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Free the survivor suspended in time.",
+		"ACHIEVEMENT_FREEMAGE_NAME": "Tauko.",
+		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Vapauta selviytyjä, joka on jäädytetty ajassa.",
 
-		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME" : "Newtist",
-		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION" : "Discover and activate 8 unique Newt Altars.",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME" : "Liskonmetsästäjä",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION" : "Löydä ja aktivoi 8 uniikkia Lisko Alttaria.",
 
-		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME" : "True Respite",
-		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION" : "Obliterate yourself at the Obelisk..",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME" : "Todellinen hengähdystauko",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION" : "Tuhoa itsesi Obeliskilla..",
 
-		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME" : "Flawless",
-		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Fully charge a Teleporter without getting hit.",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME" : "Virheetön",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Lataa Teleportteri täysin ilman, että otat yhtään osumaa.",
 
-		"ACHIEVEMENT_MOVESPEED_NAME" : "Going Fast Recommended",
-		"ACHIEVEMENT_MOVESPEED_DESCRIPTION" : "Reach +300% movespeed (includes sprinting).",
+		"ACHIEVEMENT_MOVESPEED_NAME" : "On suositeltavaa mennä nopeasti",
+		"ACHIEVEMENT_MOVESPEED_DESCRIPTION" : "Saavuta +300% liikkumisnopeutta (sisältää juoksun).",
 
-		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME" : "The Basics",
-		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION" : "Discover 10 unique white items.",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME" : "Perusteet",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION" : "Löydä 10 uniikkia valkoista esinettä.",
 
-		"ACHIEVEMENT_FAILSHRINECHANCE_NAME" : "\"Is This Bugged?\"",
-		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION" : "Fail the Shrine of Chance 3 times in a row.",
+		"ACHIEVEMENT_FAILSHRINECHANCE_NAME" : "\"Onko tämä bugannut?\"",
+		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION" : "Epäonnistu Sattuman Alttarilla 3 kertaa putkeen.",
 
 		"ACHIEVEMENT_LOOPONCE_NAME" : "Deja Vu?",
-		"ACHIEVEMENT_LOOPONCE_DESCRIPTION" : "Loop back to the first stage.",
+		"ACHIEVEMENT_LOOPONCE_DESCRIPTION" : "Palaa takaisin ensimmäiseen tasoon.",
 
-		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME" : "...Maybe One More.",
-		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION" : "Duplicate the same item 7 times in a row with a 3D Printer.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME" : "...Jos vielä yksi.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION" : "Monista sama esine 7 kertaa putkeen 3D Tulostimella.",
 
-		"ACHIEVEMENT_KILLBOSSQUICK_NAME" : "Keyed Up",
-		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Defeat the Teleporter boss under 15 seconds.",
+		"ACHIEVEMENT_KILLBOSSQUICK_NAME" : "Hermostunut",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Päihitä Teleportin päävihollinen alle 15 sekunnissa.",
 
-		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME" : "Naturopath",
-		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Without healing, reach and complete the 3rd stage.",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME" : "Luonnonlääkäri",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Ilman paranemista, saavuta ja suorita 3. taso.",
 
-		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Her Concepts",
-		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Altar to N'kuhana.",
+		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Hänen käsitteensä",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Löydä N'kuhanan Alttari.",
 
-		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunar Omens",
-		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Find 10 Clay Dolls. <sprite name=\"WIP\"> This achievement is currently unimplemented. <sprite name=\"WIP\">",
+		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunaariset enteet",
+		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Löydä 10 Savi Nukkea. <sprite name=\"WIP\"> Tämä saavutus on tällä hetkellä toteuttamatta. <sprite name=\"WIP\">",
 		
-		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Engineering Perfection",
-		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Suunnittelun täydellisyys",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Suoriudu 30 tasosta.",
 		
-		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Blackout",
-		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the unique guardian of Gilded Coast without any beacons deactivating.",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Tajunnan menetys",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Päihitä Kullatun Rannan uniikki vartija ilman, että yksikään merkkituli de-aktivoituu.",
 		
-		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Cut Down",
-		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Defeat 500 elite monsters.",
+		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Kaadettu",
+		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Päihitä 500 Eliitti Hirviötä.",
 		
-		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Warmonger",
-		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Complete 3 Combat Shrines in a single stage.",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_NAME": "Sotahirmu",
+		"ACHIEVEMENT_MULTICOMBATSHRINE_DESCRIPTION": "Suorita 3 Taistelu Alttaria yhdessä tasossa.",
 		
-		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Cosmic Explorer",
-		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Discover and enter three unique portals.",
+		"ACHIEVEMENT_USETHREEPORTALS_NAME": "Kosminen tutkimusmatkailija",
+		"ACHIEVEMENT_USETHREEPORTALS_DESCRIPTION": "Löydä ja astu kolmen uniikin portaalin läpi.",
 		
-		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Power Plant",
-		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Repair the broken robot with an Escape Pod's Fuel Array.",
+		"ACHIEVEMENT_RESCUETREEBOT_NAME": "Voimalaitos",
+		"ACHIEVEMENT_RESCUETREEBOT_DESCRIPTION": "Korjaa rikkinäinen robotti Pelastuskapselin polttoainemoduulilla.",
 
-		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Commando: Rolling Thunder",
-		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "As Commando, land the killing blow on an Overloading Worm.",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_NAME": "Commando: Jyrisevä Ukkonen",
+		"ACHIEVEMENT_COMMANDOKILLOVERLOADINGWORM_DESCRIPTION": "Commandona, anna tappava isku Ylikuormittuvaan Matoon.",
 
-		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Pest Control",
-		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "As MUL-T, defeat two Beetle Queens without leaving the teleporter zone.",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_NAME": "MUL-T: Tuholaistorjunta",
+		"ACHIEVEMENT_TOOLBOTGUARDTELEPORTER_DESCRIPTION": "MUL-T:na, päihitä kaksi Kuoriaisten Kuningatarta ilman, että poistut Teleporttialueelta.",
 		
-		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Gotcha!",
-		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "As MUL-T, land the killing blow on an Imp Overlord with the Preon Accumulator.",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_NAME": "MUL-T: Sainpas!",
+		"ACHIEVEMENT_TOOLBOTKILLIMPBOSSWITHBFG_DESCRIPTION": "MUL-T:na, osu tappava isku Maahisten Ylijumalaan Preonivaraajalla.",
 
-		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Seventh Day",
-		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "As MUL-T, clear the Void Fields on Stage 7 or later.",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_NAME": "MUL-T: Seitsemäs Päivä",
+		"ACHIEVEMENT_TOOLBOTBEATARENALATER_DESCRIPTION": "MUL-T:na, raivaa Tyhjät Pellot tasolla 7 tai myöhemmin.",
 		
-		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Mercenary: Demon of the Skies",
-		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "As Mercenary, don't touch the ground for 30 seconds.",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_NAME": "Mercenary: Taivaiden Demoni",
+		"ACHIEVEMENT_MERCDONTTOUCHGROUND_DESCRIPTION": "Mercenarynä, älä koske maahan 30 sekuntiin.",
 		
-		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Mercenary: Ethereal",
-		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_NAME": "Mercenary: Hengenomainen",
+		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "Mercenarynä, suoriudu Prismaattisesta Koettelemuksesta ilman, että elämäpisteet laskevat alle 100%.",
 
-		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Mercenary: Flash of Blades",
-		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "As Mercenary, use 20 abilities in 10 seconds.",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_NAME": "Mercenary: Terien Välähdys",
+		"ACHIEVEMENT_MERCXSKILLSINYSECONDS_DESCRIPTION": "Mercenarynä, käytä 20 kykyä 10 sekunnissa.",
 		
-		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Piercing Wind",
-		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish either Rallypoint Delta or Scorched Acres without falling below 100% health.",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Lävistävä Tuuli",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "Huntressina, aloita ja lopeta joko Kokoontumispiste Daavid tai Poltetut Hehtaarit ilman, että elämäpisteet laskevat alle 100%.",
 		
-		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Huntress: One Shot, One Kill",
-		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "As Huntress, collect and carry 12 Crowbars at once.",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Huntress: Yksi Laukaus, Yksi Tappo",
+		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "Huntressina, kerää ja kanna 12 Sorkkarautaa kerralla.",
 		
-		"ACHIEVEMENT_ENGIARMY_NAME": "Engineer: Better With Friends",
-		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "As Engineer, recruit 12 minions at one time.",
+		"ACHIEVEMENT_ENGIARMY_NAME": "Engineer: Parempi Ystävien Kanssa",
+		"ACHIEVEMENT_ENGIARMY_DESCRIPTION": "Engineerinä, värvää 12 kätyriä kerrallaan.",
 		
-		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Bushwhacked",
-		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "As REX, complete an entire teleporter event while under 50% health.",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_NAME": "REX: Pensasmäjäytys",
+		"ACHIEVEMENT_TREEBOTLOWHEALTHTELEPORTER_DESCRIPTION": "REX:inä, suoriudu kokonaisesta Teleporttitapahtumasta niin, että elämäpisteet ovat alle 50%.",
 		
-		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Artificer: Chunked!",
-		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "As Artificer, fully defeat the teleporter boss in a one-second burst of damage.",
+		"ACHIEVEMENT_MAGEFASTBOSS_NAME": "Artificer: Palasina!",
+		"ACHIEVEMENT_MAGEFASTBOSS_DESCRIPTION": "Artificerinä, päihitä Teleportin Päävihollinen täysin yhden sekunnin vahinkopurskauksella.",
 		
-		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Artificer: Orbital Bombardment",
-		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "As Artificer, kill 15 enemies before touching the ground.",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_NAME": "Artificer: Kiertoratapommitus",
+		"ACHIEVEMENT_MAGEAIRBORNEMULTIKILL_DESCRIPTION": "Artificerinä tapa 15 vihollista ennen kuin kosketat maata.",
 		
-		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Artificer: Massacre",
-		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "As Artificer, perform a multikill of 20 enemies.",
+		"ACHIEVEMENT_MAGEMULTIKILL_NAME": "Artificer: Verilöyly",
+		"ACHIEVEMENT_MAGEMULTIKILL_DESCRIPTION": "Artificerinä, suorita 20 vihollisen moninkertaistappo.",
 		
-		"ACHIEVEMENT_BURNTODEATH_NAME": "Warm For Life",
-		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Die three times while burning.",
+		"ACHIEVEMENT_BURNTODEATH_NAME": "Lämmin Koko Elämäksi",
+		"ACHIEVEMENT_BURNTODEATH_DESCRIPTION": "Kuole kolme kertaa palamiseen.",
 		
-		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Engineer: 100% Calculated",
-		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_NAME": "Engineer: 100% Laskettu",
+		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "Engineerinä, päihitä Teleportterin Päävihollinen alle 5 sekunnissa siitä, kun se syntyy.",
 		
-		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
-		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Donkattu",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "REX:inä, tapa Savi Dyyniharppaaja heittämällä se kuoppaan.",
 
-		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Full of Life",
-		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "As REX, heal for 1000 health at once.",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_NAME": "REX: Täynnä Elämää",
+		"ACHIEVEMENT_TREEBOTBIGHEAL_DESCRIPTION": "REX:inä, parane 1000 elämäpistettä kerralla.",
 		
-		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Swing By",
-		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
+		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Piipahdus",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "Loaderina, saavuta ja mene Taivaallisen Portaalin läpi alle 25 minuutissa.",
 
-		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Loader: The Thunderdome",
-		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "As Loader, kill three other Loaders in the Bulwark's Ambry.",
+		"ACHIEVEMENT_LOADERKILLLOADERS_NAME": "Loader: Raivokupla",
+		"ACHIEVEMENT_LOADERKILLLOADERS_DESCRIPTION": "Loaderina, tapa kolme muuta Loaderia Bulwarkin Varastohuoneessa.",
 		
-		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Incorruptible",
-		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Lahjomaton",
+		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "Commandona, tyhjennä 20 tasoa yhden kierroksen aikana ilman, että poimit yhtäkään Lunaarista esinettä.",
 		
-		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Mastery",
-		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Huippusuoritus",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "Commandona, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mastery",
-		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Huippusuoritus",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "MUL-T:na, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Mastery",
-		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Huippusuoritus",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "Huntressina, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Mastery",
-		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Huippusuoritus",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "Artificerinä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Mastery",
-		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Huippusuoritus",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "Mercenarynä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mastery",
-		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Huippusuoritus",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "REX:inä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Mastery",
-		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Huippusuoritus",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "Loaderina, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Mastery",
-		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As Acrid, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Huippusuoritus",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "Acridina, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Engineer: Mastery",
-		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Engineer: Huippusuoritus",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "Engineerinä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Captain: Mastery",
-		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "As Captain, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_NAME": "Captain: Huippusuoritus",
+		"ACHIEVEMENT_CAPTAINCLEARGAMEMONSOON_DESCRIPTION": "Captainina, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Mastery",
-		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "As Bandit, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_NAME": "Bandit: Huippusuoritus",
+		"ACHIEVEMENT_BANDIT2CLEARGAMEMONSOON_DESCRIPTION": "Banditinä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Railgunner: Mastery",
-		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "As Railgunner, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_NAME": "Railgunner: Huippusuoritus",
+		"ACHIEVEMENT_RAILGUNNERCLEARGAMEMONSOON_DESCRIPTION": "Railgunnerina, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Mastery",
-		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "As 「V??oid Fiend』, beat the game or obliterate on Monsoon.",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_NAME": "「V??oid Fiend』: Huippusuoritus",
+		"ACHIEVEMENT_VOIDSURVIVORCLEARGAMEMONSOON_DESCRIPTION": "「V??oid Fiend』:inä, voita peli tai tuhoa itsesi Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
-		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Saarron Katkaisija",
+		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Tapa 15 Päävihollis Hirviötä yhden kierroksen aikana.",
 		
-		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Guidance Offline",
-		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Siren's Call.",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Ohjaus Offline-tilassa",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Päihitä uniikki vartija Seireenin Kutsussa.",
 		
-		"ACHIEVEMENT_BEATARENA_NAME": "...To Be Left Alone",
-		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Stabilize the Cell in the Void Fields.",
+		"ACHIEVEMENT_BEATARENA_NAME": "...Jäädäkseen yksin",
+		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Vakauta Solu Tyhjillä Pelloilla.",
 
-		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Loader: Earthshatter",
-		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "As Loader, land a Charged Gauntlet hit at 300mph or higher.",
+		"ACHIEVEMENT_LOADERBIGSLAM_NAME": "Loader: Maanmurskaaja",
+		"ACHIEVEMENT_LOADERBIGSLAM_DESCRIPTION": "Loaderina, osu Ladattu Taisteluhansikas isku 300mph tai korkeammalla nopeudella.",
 
-		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Pandemic",
-		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "As Acrid, inflict Poison 1000 total times.",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_NAME": "Acrid: Pandemia",
+		"ACHIEVEMENT_CROCOTOTALINFECTIONSMILESTONE_DESCRIPTION": "Acridina, aiheuta Myrkytys yhteensä 1000 kertaa.",
 
-		"ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Automation Activation",
-		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Activate 6 turrets in a single run.",
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_NAME": "Automaatio Aktivointi",
+		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Aktivoi 6 tykkitornia yhden kierroksen aikana.",
 
-		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Cleanup Duty",
-		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Destroy 20 flying rocks in Sky Meadow.",
+		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Siivousvelvollisuus",
+		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Tuhoa 20 lentävää kiveä Taivaiden Niityllä.",
 
-		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Never Back Down",
-		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "In 4 consecutive stages don\u2019t leave the teleporter radius until it is fully charged.",
+		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Älä Koskaan Peräänny",
+		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "4 peräkkäisen tason aikana, älä poistu Teleportterialueelta ennen kuin se on täysin ladattu.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTBOMB_NAME": "Trial of Spite",
-		"ACHIEVEMENT_OBTAINARTIFACTBOMB_DESCRIPTION": "Complete the Trial of Spite.",
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_NAME": "Vihan Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTBOMB_DESCRIPTION": "Suoriudu Vihan Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_NAME": "Trial of Command",
-		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_DESCRIPTION": "Complete the Trial of Command.",
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_NAME": "Komennuksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTCOMMAND_DESCRIPTION": "Suoriudu Komennuksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_NAME": "Trial of Honor",
-		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_DESCRIPTION": "Complete the Trial of Honor.",
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_NAME": "Kunnian Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTELITEONLY_DESCRIPTION": "Suoriudu Kunnian Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_NAME": "Trial of Enigma",
-		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_DESCRIPTION": "Complete the Trial of Enigma.",
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_NAME": "Arvoituksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTENIGMA_DESCRIPTION": "Suoriudu Arvoituksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_NAME": "Trial of Chaos",
-		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_DESCRIPTION": "Complete the Trial of Chaos.",
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_NAME": "Kaaoksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTFRIENDLYFIRE_DESCRIPTION": "Suoriudu Kaaoksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTGLASS_NAME": "Trial of Glass",
-		"ACHIEVEMENT_OBTAINARTIFACTGLASS_DESCRIPTION": "Complete the Trial of Glass.",
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_NAME": "Lasin Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTGLASS_DESCRIPTION": "Suoriudu Lasin Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_NAME": "Trial of Dissonance",
-		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_DESCRIPTION": "Complete the Trial of Dissonance.",
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_NAME": "Epäsovun Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTMIXENEMY_DESCRIPTION": "Suoriudu Epäsovun Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_NAME": "Trial of Evolution",
-		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_DESCRIPTION": "Complete the Trial of Evolution.",
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_NAME": "Kehityksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTMONSTERTEAMGAINSITEMS_DESCRIPTION": "Suoriudu Kehityksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_NAME": "Trial of Metamorphosis",
-		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_DESCRIPTION": "Complete the Trial of Metamorphosis.",
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_NAME": "Muodonmuutoksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTRANDOMSURVIVORONRESPAWN_DESCRIPTION": "Suoriudu Muodonmuutoksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_NAME": "Trial of Sacrifice",
-		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_DESCRIPTION": "Complete the Trial of Sacrifice.",
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_NAME": "Uhrauksen Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTSACRIFICE_DESCRIPTION": "Suoriudu Uhrauksen Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_NAME": "Trial of Vengeance",
-		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_DESCRIPTION": "Complete the Trial of Vengeance.",
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_NAME": "Koston Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTSHADOWCLONE_DESCRIPTION": "Suoriudu Koston Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_NAME": "Trial of Kin",
-		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_DESCRIPTION": "Complete the Trial of Kin.",
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_NAME": "Suvun Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTSINGLEMONSTERTYPE_DESCRIPTION": "Suoriudu Suvun Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_NAME": "Trial of Swarms",
-		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_DESCRIPTION": "Complete the Trial of Swarms.",
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_NAME": "Parvien Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTSWARMS_DESCRIPTION": "Suoriudu Parvien Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_NAME": "Trial of Death",
-		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_DESCRIPTION": "Complete the Trial of Death.",
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_NAME": "Kuoleman Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTTEAMDEATH_DESCRIPTION": "Suoriudu Kuoleman Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_NAME": "Trial of Frailty",
-		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_DESCRIPTION": "Complete the Trial of Frailty.",
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_NAME": "Heikkouden Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTWEAKASSKNEES_DESCRIPTION": "Suoriudu Heikkouden Koettelemuksesta.",
 
-		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Trial of Soul",
-		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Complete the Trial of Soul.",
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_NAME": "Sielun Koettelemus",
+		"ACHIEVEMENT_OBTAINARTIFACTWISPONDEATH_DESCRIPTION": "Suoriudu Sielun Koettelemuksesta.",
 
-		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Godspeed",
-		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "As Commando, fully charge the first-stage teleporter before the timer hits 5 minutes.",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_NAME": "Commando: Luojan Nopeus",
+		"ACHIEVEMENT_COMMANDOFASTFIRSTSTAGECLEAR_DESCRIPTION": "Commandona, lataa ensimmäisen tason Teleportteri täysin, ennen kuin kello lyö 5 minuuttia.",
 
-		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Bad Medicine",
-		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "As Acrid, land the final blow on a Scavenger.",
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_NAME": "Acrid: Huono Lääke",
+		"ACHIEVEMENT_CROCOKILLSCAVENGER_DESCRIPTION": "Acridina, osu tappava isku Romunkerääjään.",
 
-		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Huntress: Finishing Touch",
-		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "As Huntress, land a killing blow with every possible hit of a single glaive.",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_NAME": "Huntress: Viimeistely",
+		"ACHIEVEMENT_HUNTRESSALLGLAIVEBOUNCESKILL_DESCRIPTION": "Huntressina, osu tappava isku jokaisella mahdollisella osumalla yhden heittoveitsen kanssa.",
 
-		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Easy Prey",
-		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "As Acrid, land the killing blow on 50 total enemies that have 1 hit point left.",
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_NAME": "Acrid: Helppo saalis",
+		"ACHIEVEMENT_CROCOKILLWEAKENEMIESMILESTONE_DESCRIPTION": "Acridina, osu tappava isku yhteensä 50 viholliseen, jolla on 1 elämäpiste jäljellä.",
 
-		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_NAME": "Engineer: Zero Sum",
-		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_DESCRIPTION": "As Engineer, finish charging the teleporter with zero monsters remaining on the stage.",
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_NAME": "Engineer: Nollasumma",
+		"ACHIEVEMENT_ENGICLEARTELEPORTERWITHZEROMONSTERS_DESCRIPTION": "Engineerinä, lataa Teleportteri valmiiksi siten, että tasossa ei ole jäljellä yhtäkään hirviötä.",
 
-		"ACHIEVEMENT_DIE20TIMES_NAME": "I Love Dying!",
-		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Die 20 times.",
+		"ACHIEVEMENT_DIE20TIMES_NAME": "Rakastan Kuolemista!",
+		"ACHIEVEMENT_DIE20TIMES_DESCRIPTION": "Kuole 20 kertaa.",
 
-		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Washed Away",
-		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Escape the moon.",
+		"ACHIEVEMENT_COMPLETEMAINENDING_NAME": "Huuhdeltu",
+		"ACHIEVEMENT_COMPLETEMAINENDING_DESCRIPTION": "Pakene kuusta.",
 
-		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Dragged Below",
-		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Escape the Planetarium or complete wave 50 in Simulacrum.",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_NAME": "Raahattu alas",
+		"ACHIEVEMENT_COMPLETEVOIDENDING_DESCRIPTION": "Pakene Planetaariosta tai suoriudu aallosta 50 Simulaarissa.",
 
-		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "The Calm",
-		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Escape the moon on Monsoon difficulty.",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_NAME": "Rentoutunut",
+		"ACHIEVEMENT_COMPLETEMAINENDINGHARD_DESCRIPTION": "Pakene kuusta Monsuuni -vaikeusasteella.",
 
-		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Captain: Worth Every Penny",
-		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "As Captain, repair and recruit a TC-280 Prototype.",
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_NAME": "Captain: Joka Pennin Arvoinen",
+		"ACHIEVEMENT_CAPTAINBUYMEGADRONE_DESCRIPTION": "Captainina, korjaa ja värvää TC-280 Prototyyppi.",
 
-		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Captain: Wanderlust",
-		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "As Captain, visit 10 different environments in a single run.",
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_NAME": "Captain: Vaeltelun Himo",
+		"ACHIEVEMENT_CAPTAINVISITSEVERALSTAGES_DESCRIPTION": "Captainina, vieraile 10 erilaisessa ympäristössä yhden kierroksen aikana.",
 
-		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Captain: Smushed",
-		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "As Captain, kill the final boss using a Supply Beacon",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_NAME": "Captain: Litistetty",
+		"ACHIEVEMENT_CAPTAINSUPPLYDROPFINALE_DESCRIPTION": "Captainina, tapa Viimeinen Päävihollinen käyttäen Toimitus Majakkaa",
 
-		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Bandit: Classic Man",
-		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "As Bandit, successfully use 'Lights Out' to reset your cooldowns 15 times in a row.",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_NAME": "Bandit: Klassinen Mies",
+		"ACHIEVEMENT_BANDIT2CONSECUTIVERESET_DESCRIPTION": "Banditinä, onnistuneesti käytä 'Valot Pois' -kykyä nollataksesi odotusaikasi 15 kertaa putkeen.",
 
-		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Bandit: B&E",
-		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "As Bandit, kill the final boss with 'Lights Out'.",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_NAME": "Bandit: Murtaudu ja Etene",
+		"ACHIEVEMENT_BANDIT2REVOLVERFINALE_DESCRIPTION": "Banditinä, tapa Viimeinen Päävihollinen käyttäen 'Valot Pois' -kykyä.",
 
-		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadist",
-		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "As Bandit, kill a monster with 20 stacks of Hemorrhage.",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_NAME": "Bandit: Sadisti",
+		"ACHIEVEMENT_BANDIT2STACKSUPERBLEED_DESCRIPTION": "Banditinä, tapa hirviö, jolla on kasautunut 20 kertaa Verenvuoto.",
 
-		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Railgunner: Annihilator",
-		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "As Railgunner, deal 1,000,000 damage in one shot.",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_NAME": "Railgunner: Hävittäjä",
+		"ACHIEVEMENT_RAILGUNNERDEALMASSIVEDAMAGE_DESCRIPTION": "Railgunnerina, tee 1,000,000 vahinkoa yhdellä laukauksella.",
 
-		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Railgunner: Marksman",
-		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "As Railgunner, fire 30 consecutive sniper shots without missing a Weak Point.",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_NAME": "Railgunner: Tarkka-ampuja",
+		"ACHIEVEMENT_RAILGUNNERCONSECUTIVEWEAKPOINTS_DESCRIPTION": "Railgunnerina, ammu 30 peräkkäistä tarkka-ampujakivääriammusta ilman, että et osu Heikkoon Kohtaan.",
 
-		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Railgunner: Trickshot",
-		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "As Railgunner, get 3 kills with a single Supercharge shot while airborne.",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_NAME": "Railgunner: Temppulaukaus",
+		"ACHIEVEMENT_RAILGUNNERAIRBORNEMULTIKILL_DESCRIPTION": "Railgunnerina, saa 3 tappoa yhdellä Superlataus -ammuksella niin, että olet ilmassa.",
 
 		"ACHIEVEMENT__NAME": "",
 		"ACHIEVEMENT__DESCRIPTION": "",
