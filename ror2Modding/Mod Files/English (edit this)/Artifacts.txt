@@ -1,69 +1,69 @@
 {
 	"strings":
 	{
-		"ARTIFACT_GLASS_NAME": "Artifact of Glass",
-		"ARTIFACT_GLASS_DESCRIPTION" : "Allies deal 500% damage, but have 10% health.",
+		"ARTIFACT_GLASS_NAME": "Lasista valmistettu Artefakti",
+		"ARTIFACT_GLASS_DESCRIPTION" : "Liittolaiset aiheuttavat 500% vahinkoa, mutta heillä on 10% elämäpisteitä. Allies deal 500% damage, but have 10% health.",
 
-		"ARTIFACT_BOMB_NAME" : "Artifact of Spite",
-		"ARTIFACT_BOMB_DESCRIPTION" : "Enemies drop multiple exploding bombs on death.",
+		"ARTIFACT_BOMB_NAME" : "Inhosta valmistettu Artefakti",
+		"ARTIFACT_BOMB_DESCRIPTION" : "Viholliset pudottavat useita räjähtäviä pommeja kuollessaan.",
 
-		"ARTIFACT_ENIGMA_NAME" : "Artifact of Enigma",
-		"ARTIFACT_ENIGMA_DESCRIPTION" : "Spawn with a random equipment that changes every time it's activated.",
+		"ARTIFACT_ENIGMA_NAME" : "Mysteeristä valmistettu Artefakti",
+		"ARTIFACT_ENIGMA_DESCRIPTION" : "Spawnaa satunnaisella varusteella, joka vaihtuu joka kerta kun se on aktivoitu.",
 
-		"ARTIFACT_SACRIFICE_NAME" : "Artifact of Sacrifice",
-		"ARTIFACT_SACRIFICE_DESCRIPTION" : "Monsters drop items on death, but Chests no longer spawn.",
+		"ARTIFACT_SACRIFICE_NAME" : "Uhrautumisesta valmistettu Artefakti",
+		"ARTIFACT_SACRIFICE_DESCRIPTION" : "Hirviöt pudottavat esineitä kuollessaan, mutta laatikoita ei enää spawnaa.",
 
-		"ARTIFACT_SPIRIT_NAME" : "Artifact of Spirit",
-		"ARTIFACT_SPIRIT_DESCRIPTION" : "All characters move faster at lower health.",
+		"ARTIFACT_SPIRIT_NAME" : "Hengestä valmistettu Artefakti",
+		"ARTIFACT_SPIRIT_DESCRIPTION" : "Kaikki hahmot liikkuvat nopeammin, kun elämäpisteet ovat vähissä.",
 
-		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Artifact of Metamorphosis",
-		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Players always spawn as a random survivor.",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Muodonvaihdoksesta valmistettu Artefakti",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Pelaajat spawnaavat aina satunnaisena selviytyjänä.",
 		
-		"ARTIFACT_WEAKASSKNEES_NAME": "Artifact of Frailty",
-		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Fall damage is doubled and lethal.",
+		"ARTIFACT_WEAKASSKNEES_NAME": "Heikkoudesta valmistettu Artefakti",
+		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Putoamisvahinko on tuplattu ja tappava.",
 		
-		"ARTIFACT_WISPONDEATH_NAME": "Artifact of Soul",
-		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Wisps emerge from defeated monsters.",
+		"ARTIFACT_WISPONDEATH_NAME": "Sielusta valmistettu Artefakti",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Suortuvia ilmaantuu päihitetyistä hirviöistä.",
 		
-		"ARTIFACT_ELITEONLY_NAME": "Artifact of Honor",
-		"ARTIFACT_ELITEONLY_DESCRIPTION": "Enemies can only spawn as elites.",
+		"ARTIFACT_ELITEONLY_NAME": "Kunniasta valmistettu Artefakti",
+		"ARTIFACT_ELITEONLY_DESCRIPTION": "Viholliset voivat spawnata vain eliitteinä.",
 		
-		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Artifact of Kin",
-		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Monsters will be of only one type per stage.",
+		"ARTIFACT_SINGLEMONSTERTYPE_NAME": "Suvusta valmistettu Artefakti",
+		"ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Hirviöt ovat vain yhtä lajia jokaista tasoa kohti.",
 		
-		"ARTIFACT_MIXENEMY_NAME": "Artifact of Dissonance",
-		"ARTIFACT_MIXENEMY_DESCRIPTION": "Monsters can appear outside their usual environments.",
+		"ARTIFACT_MIXENEMY_NAME": "Epäsovusta valmistettu Artefakti",
+		"ARTIFACT_MIXENEMY_DESCRIPTION": "Hirviöitä voi ilmestyä niiden tavanomaisten ympäristöjen ulkopuolella.",
 		
-		"ARTIFACT_SHADOWCLONE_NAME": "Artifact of Vengeance",
-		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Your relentless doppelganger will invade every 10 minutes.",
+		"ARTIFACT_SHADOWCLONE_NAME": "Kostosta valmistettu Artefakti",
+		"ARTIFACT_SHADOWCLONE_DESCRIPTION": "Säälimätön kasoisolentosi hyökkää 10 minuutin välein.",
 		
-		"ARTIFACT_TEAMDEATH_NAME": "Artifact of Death",
-		"ARTIFACT_TEAMDEATH_DESCRIPTION": "When one player dies, everyone dies. Enable only if you want to truly put your teamwork and individual skill to the ultimate test.",
-		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0}'s death ripples forth.</b></style>",
-		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Your demise has catastrophic effect.</b></style>",
+		"ARTIFACT_TEAMDEATH_NAME": "Kuolemasta valmistettu Artefakti",
+		"ARTIFACT_TEAMDEATH_DESCRIPTION": "Kun yksi pelaaja kuolee, kaikki kuolevat. Ota käyttöön vain, jos haluat todella laittaa tiimityösi ja yksilötaitosi äärimmäiselle koetukselle.",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0}:n kuolema värähtelee eteenpäin.</b></style>",
+		"ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Poismenollasi on katastrofaaliset vaikutukset.</b></style>",
 		
-		"ARTIFACT_SWARMS_NAME": "Artifact of Swarms",
-		"ARTIFACT_SWARMS_DESCRIPTION": "Monster spawns are doubled, but monster maximum health is halved.",
+		"ARTIFACT_SWARMS_NAME": "Parvista valmistettu Artefakti",
+		"ARTIFACT_SWARMS_DESCRIPTION": "Hirviöiden spawnit ovat tuplattu, mutta niiden maksimi elämäpistemäärä on puolitettu.",
 		
-		"ARTIFACT_COMMAND_NAME": "Artifact of Command",
-		"ARTIFACT_COMMAND_DESCRIPTION": "Choose your items.",
-		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Open",
-		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "What is your Command?",
-		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "White Command Essence",
-		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "Green Command Essence",
-		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "Red Command Essence",
-		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "Yellow Command Essence",
-		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "Orange Command Essence",
-		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "Blue Command Essence",
-		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "Unknown Command Essence",
+		"ARTIFACT_COMMAND_NAME": "Käskystä valmistettu Artefakti",
+		"ARTIFACT_COMMAND_DESCRIPTION": "Valitse esineesi.",
+		"ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Avaa",
+		"ARTIFACT_COMMAND_INTERACTION_HEADER" : "Mikä on käskysi?",
+		"ARTIFACT_COMMAND_CUBE_WHITE_NAME" : "Valkoisen Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_GREEN_NAME" : "Vihreän Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_RED_NAME" : "Punaisen Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_YELLOW_NAME" : "Keltaisen Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_ORANGE_NAME" : "Oranssin Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_BLUE_NAME" : "Sinisen Käskyn Olemus",
+		"ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME" : "Tuntemattoman Käskyn Olemus",
 
-		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Artifact of Evolution",
-		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Monsters gain items between stages.",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Evoluutiosta valmistettu Artefakti",
+		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Hirviöt saavat esineitä tasojen välissä.",
 
-		"ARTIFACT_FRIENDLYFIRE_NAME": "Artifact of Chaos",
-		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Friendly fire is enabled for both survivors and monsters alike.",
+		"ARTIFACT_FRIENDLYFIRE_NAME": "Kaaoksesta valmistettu Artefakti",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Omien joukkojen tulitus on käytössä sekä selviytyjille että hirviöille.",
 
-		"ARTIFACT_NONE_NAME" : "Disable Artifact",
-		"ARTIFACT_NONE_DESCRIPTION" : "Disables the selected Artifact.",
+		"ARTIFACT_NONE_NAME" : "Poista käytöstä Artefakti",
+		"ARTIFACT_NONE_DESCRIPTION" : "Poistaa valitun Artefaktin käytöstä.",
 	}
 }
