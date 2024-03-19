@@ -61,7 +61,7 @@
 		"ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Hirviöt saavat esineitä tasojen välissä.",
 
 		"ARTIFACT_FRIENDLYFIRE_NAME": "Kaaoksesta valmistettu Artefakti",
-		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Omien joukkojen tulitus on käytössä sekä selviytyjille että hirviöille.",
+		"ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Omien joukkojen tulitus on käytössä niin selviytyjillä kuin hirviöilläkin.",
 
 		"ARTIFACT_NONE_NAME" : "Poista käytöstä Artefakti",
 		"ARTIFACT_NONE_DESCRIPTION" : "Poistaa valitun Artefaktin käytöstä.",
