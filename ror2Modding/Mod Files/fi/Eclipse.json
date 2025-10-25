@@ -1,0 +1,24 @@
+{
+  "strings": {
+    "ECLIPSE_GAMEMODE_NAME": "Eclipse",
+    "ECLIPSE_GAMEMODE_DESCRIPTION": "<style=cIsUtility>Eclipse</style> on pelitila, joka lisää peliisi kasaantuvia haasteellisuuksia.\n\nJoka kerta kun <style=cIsUtility>päihität pelin</style>, Eclipse-tasosi <style=cIsUtility>nousee pysyvästi</style> kyseisellä selviytyjällä, enintään <style=cIsUtility>8</style> kertaa.",
+    "ECLIPSE_GAMEMODE_START": "Aloita Eclipse",
+
+    "ECLIPSE_1_NAME": "Eclipse (1)",
+    "ECLIPSE_2_NAME": "Eclipse (2)",
+    "ECLIPSE_3_NAME": "Eclipse (3)",
+    "ECLIPSE_4_NAME": "Eclipse (4)",
+    "ECLIPSE_5_NAME": "Eclipse (5)",
+    "ECLIPSE_6_NAME": "Eclipse (6)",
+    "ECLIPSE_7_NAME": "Eclipse (7)",
+    "ECLIPSE_8_NAME": "Eclipse (8)",
+    "ECLIPSE_1_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style></style>",
+    "ECLIPSE_2_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style></style>",
+    "ECLIPSE_3_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style></style>",
+    "ECLIPSE_4_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style>\n<mspace=0.5em>(4)</mspace> Vihollisten nopeus: <style=cIsHealth>+40%</style></style>",
+    "ECLIPSE_5_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style>\n<mspace=0.5em>(4)</mspace> Vihollisten nopeus: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Liittolaisten parantuminen: <style=cIsHealth>-50%</style></style>",
+    "ECLIPSE_6_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style>\n<mspace=0.5em>(4)</mspace> Vihollisten nopeus: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Liittolaisten parantuminen: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Vihollisten kullan tiputus: <style=cIsHealth>-20%</style></style>",
+    "ECLIPSE_7_DESCRIPTION": "Alkaa perus-Monsoon-vaikeustasosta.<style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style>\n<mspace=0.5em>(4)</mspace> Vihollisten nopeus: <style=cIsHealth>+40%</style>\n<mspace=0.5em>(5)</mspace> Liittolaisten parantuminen: <style=cIsHealth>-50%</style>\n<mspace=0.5em>(6)</mspace> Vihollisten kullan tiputus: <style=cIsHealth>-20%</style>\n<mspace=0.5em>(7)</mspace> Vihollisten toimintojen cooldown: <style=cIsHealth>-50%</style></style>",
+    "ECLIPSE_8_DESCRIPTION": "\"Juhlit valossa... vain koska minä sallin sen.\" \n\nAlkaa perus-Monsoon-vaikeustasosta. <style=cSub>\n\n<mspace=0.5em>(1)</mspace> Liittolaisten alkuenergia: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(2)</mspace> Teleporterin säde: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(3)</mspace> Liittolaisten putoamisvahinko: <style=cIsHealth>+100% ja tappava</style> \n<mspace=0.5em>(4)</mspace> Vihollisten nopeus: <style=cIsHealth>+40%</style> \n<mspace=0.5em>(5)</mspace> Liittolaisten parantuminen: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(6)</mspace> Vihollisten kullan tiputus: <style=cIsHealth>-20%</style> \n<mspace=0.5em>(7)</mspace> Vihollisten toimintojen cooldown: <style=cIsHealth>-50%</style> \n<mspace=0.5em>(8)</mspace> Liittolaiset saavat <style=cIsHealth>pysyvää vahinkoa</style></style>"
+  }
+}

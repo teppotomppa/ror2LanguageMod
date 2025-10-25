@@ -1,0 +1,68 @@
+{
+  "strings": {
+    "ARTIFACT_GLASS_NAME": "Lasista valmistettu Artefakti",
+    "ARTIFACT_GLASS_DESCRIPTION": "Liittolaiset aiheuttavat 500% vahinkoa, mutta heillä on 10% elämäpisteitä. Allies deal 500% damage, but have 10% health.",
+
+    "ARTIFACT_BOMB_NAME": "Inhosta valmistettu Artefakti",
+    "ARTIFACT_BOMB_DESCRIPTION": "Viholliset pudottavat useita räjähtäviä pommeja kuollessaan.",
+
+    "ARTIFACT_ENIGMA_NAME": "Mysteeristä valmistettu Artefakti",
+    "ARTIFACT_ENIGMA_DESCRIPTION": "Spawnaa satunnaisella varusteella, joka vaihtuu joka kerta kun se on aktivoitu.",
+
+    "ARTIFACT_SACRIFICE_NAME": "Uhrautumisesta valmistettu Artefakti",
+    "ARTIFACT_SACRIFICE_DESCRIPTION": "Hirviöt pudottavat esineitä kuollessaan, mutta laatikoita ei enää spawnaa.",
+
+    "ARTIFACT_SPIRIT_NAME": "Hengestä valmistettu Artefakti",
+    "ARTIFACT_SPIRIT_DESCRIPTION": "Kaikki hahmot liikkuvat nopeammin, kun elämäpisteet ovat vähissä.",
+
+    "ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Muodonvaihdoksesta valmistettu Artefakti",
+    "ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Pelaajat spawnaavat aina satunnaisena selviytyjänä.",
+
+    "ARTIFACT_WEAKASSKNEES_NAME": "Heikkoudesta valmistettu Artefakti",
+    "ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Putoamisvahinko on tuplattu ja tappava.",
+
+    "ARTIFACT_WISPONDEATH_NAME": "Sielusta valmistettu Artefakti",
+    "ARTIFACT_WISPONDEATH_DESCRIPTION": "Suortuvia ilmaantuu päihitetyistä hirviöistä.",
+
+    "ARTIFACT_ELITEONLY_NAME": "Kunniasta valmistettu Artefakti",
+    "ARTIFACT_ELITEONLY_DESCRIPTION": "Viholliset voivat spawnata vain eliitteinä.",
+
+    "ARTIFACT_SINGLEMONSTERTYPE_NAME": "Suvusta valmistettu Artefakti",
+    "ARTIFACT_SINGLEMONSTERTYPE_DESCRIPTION": "Hirviöt ovat vain yhtä lajia jokaista tasoa kohti.",
+
+    "ARTIFACT_MIXENEMY_NAME": "Epäsovusta valmistettu Artefakti",
+    "ARTIFACT_MIXENEMY_DESCRIPTION": "Hirviöitä voi ilmestyä niiden tavanomaisten ympäristöjen ulkopuolella.",
+
+    "ARTIFACT_SHADOWCLONE_NAME": "Kostosta valmistettu Artefakti",
+    "ARTIFACT_SHADOWCLONE_DESCRIPTION": "Säälimätön kasoisolentosi hyökkää 10 minuutin välein.",
+
+    "ARTIFACT_TEAMDEATH_NAME": "Kuolemasta valmistettu Artefakti",
+    "ARTIFACT_TEAMDEATH_DESCRIPTION": "Kun yksi pelaaja kuolee, kaikki kuolevat. Ota käyttöön vain, jos haluat todella laittaa tiimityösi ja yksilötaitosi äärimmäiselle koetukselle.",
+    "ARTIFACT_TEAMDEATH_DEATHMESSAGE": "<style=cDeath><b>{0}:n kuolema värähtelee eteenpäin.</b></style>",
+    "ARTIFACT_TEAMDEATH_DEATHMESSAGE_2P": "<style=cDeath><b>Poismenollasi on katastrofaaliset vaikutukset.</b></style>",
+
+    "ARTIFACT_SWARMS_NAME": "Parvista valmistettu Artefakti",
+    "ARTIFACT_SWARMS_DESCRIPTION": "Hirviöiden spawnit ovat tuplattu, mutta niiden maksimi elämäpistemäärä on puolitettu.",
+
+    "ARTIFACT_COMMAND_NAME": "Käskystä valmistettu Artefakti",
+    "ARTIFACT_COMMAND_DESCRIPTION": "Valitse esineesi.",
+    "ARTIFACT_COMMAND_CUBE_INTERACTION_PROMPT": "Avaa",
+    "ARTIFACT_COMMAND_INTERACTION_HEADER": "Mikä on käskysi?",
+    "ARTIFACT_COMMAND_CUBE_WHITE_NAME": "Valkoisen Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_GREEN_NAME": "Vihreän Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_RED_NAME": "Punaisen Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_YELLOW_NAME": "Keltaisen Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_ORANGE_NAME": "Oranssin Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_BLUE_NAME": "Sinisen Käskyn Olemus",
+    "ARTIFACT_COMMAND_CUBE_UNKNOWN_NAME": "Tuntemattoman Käskyn Olemus",
+
+    "ARTIFACT_MONSTERTEAMGAINSITEMS_NAME": "Evoluutiosta valmistettu Artefakti",
+    "ARTIFACT_MONSTERTEAMGAINSITEMS_DESCRIPTION": "Hirviöt saavat esineitä tasojen välissä.",
+
+    "ARTIFACT_FRIENDLYFIRE_NAME": "Kaaoksesta valmistettu Artefakti",
+    "ARTIFACT_FRIENDLYFIRE_DESCRIPTION": "Omien joukkojen tulitus on käytössä niin selviytyjillä kuin hirviöilläkin.",
+
+    "ARTIFACT_NONE_NAME": "Poista käytöstä Artefakti",
+    "ARTIFACT_NONE_DESCRIPTION": "Poistaa valitun Artefaktin käytöstä."
+  }
+}

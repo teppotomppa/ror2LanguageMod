@@ -1,0 +1,73 @@
+{
+  "strings": {
+    "INFINITETOWER_GAMEMODE_NAME": "Simulaakrum",
+    "INFINITETOWER_GAMEMODE_DESCRIPTION": "<style=cWorldEvent>Simulaakrum</style> on arcade-pelimuoto, joka lähettää pelaajia kohti äärettömän määrän vaikeita vihollisaltoja.\n\nTämä on replikaatio.\nTämä on replikaatio.\nTämä on replikaatio.",
+    "INFINITETOWER_GAMEMODE_START": "Suorita",
+    "INFINITE_TOWER_ENEMIES_REMAINING": "Vihollisia jäljellä: ",
+    "INFINITE_TOWER_ENEMY_COUNTER": "{0}",
+    "INFINITE_TOWER_TIME_REMAINING": "<style=cSub>Seuraava aalto: </style>",
+    "INFINITE_TOWER_TIME_COUNTER": "{0}",
+    "INFINITETOWER_TIME_HIGHEST_WAVE_EASY": "> Korkein aalto (Drizzle): <style=cIsHealing>{0}</style>",
+    "INFINITETOWER_TIME_HIGHEST_WAVE_NORMAL": "> Korkein aalto (Rainstorm): <style=cIsHealing>{0}</style>",
+    "INFINITETOWER_TIME_HIGHEST_WAVE_HARD": "> Korkein aalto (Monsoon): <style=cIsHealing>{0}</style>",
+    "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDEASY": "Aalto",
+    "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDNORMAL": "Aalto",
+    "PERBODYSTATNAME_HIGHESTINFINITETOWERWAVEREACHEDHARD": "Aalto",
+    "STATNAME_HIGHESTINFINITETOWERWAVEREACHED": "Aalto",
+    "INFINITETOWER_WAVE_BEGIN": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä..</style>",
+    "INFINITETOWER_WAVE_BEGIN_BOSS": "<style=cWorldEvent>[VAROITUS] Replikoidaan <b>kehittynyttä</b> taistelutestiä..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_BOMB": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Spite</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_COMMAND": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Command</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_GLASS": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Glass</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_MIXENEMY": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Dissonance</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_SINGLEMONSTERTYPE": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Kin</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WEAKASSKNEES": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Frailty</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_WISPONDEATH": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Soul</style>-augmentilla..</style>",
+    "INFINITETOWER_WAVE_BEGIN_ARTIFACT_ENIGMA": "<style=cWorldEvent>[VAROITUS] Replikoidaan taistelutestiä <style=cArtifact>Enigma</style>-augmentilla..</style>",
+    "PORTAL_INFINITETOWER_OPEN": "<style=cWorldEvent>Replikaatio valmis. Siirry seuraavaan simulaatioon.</style>",
+
+    "INFINITETOWER_WAVE_COUNTER": "Aalto {0}",
+    "INFINITETOWER_WAVE_DESCRIPTION_DEFAULT": "Tuhoa kaikki viholliset.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOSS": "Aalto {0} - Päähirviö",
+    "INFINITETOWER_WAVE_DESCRIPTION_BOSS": "Viholliset ovat vahvempia ja lukuisampia.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOSS_LUNAR": "Aalto {0} - Kuun augmentti",
+    "INFINITETOWER_WAVE_DESCRIPTION_BOSS_LUNAR": "Viholliset ovat vahvempia, lukuisampia ja taatusti lunaarisia.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOSS_VOID": "Aalto {0} - Tyhjyyden augmentti",
+    "INFINITETOWER_WAVE_DESCRIPTION_BOSS_VOID": "Viholliset ovat vahvempia, lukuisampia ja taatusti tyhjiöolentoja.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOSS_SCAV": "Aalto {0} - Rosvojoukon augmentti",
+    "INFINITETOWER_WAVE_DESCRIPTION_BOSS_SCAV": "Voita Rosvojoukko erikoispalkkiota varten.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOSS_BROTHER": "Aalto {0} - Mithrixin augmentti",
+    "INFINITETOWER_WAVE_DESCRIPTION_BOSS_BROTHER": "Voita Mithrix erikoispalkkiota varten.",
+
+    "INFINITETOWER_WAVE_COUNTER_BOMB": "Aalto {0} - Spite-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_COMMAND": "Aalto {0} - Command-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_GLASS": "Aalto {0} - Glass-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_MIXENEMY": "Aalto {0} - Dissonance-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_SINGLEMONSTERTYPE": "Aalto {0} - Kin-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_WEAKASSKNEES": "Aalto {0} - Frailty-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_WISPONDEATH": "Aalto {0} - Soul-augmentti",
+    "INFINITETOWER_WAVE_COUNTER_ENIGMA": "Aalto {0} - Enigma-augmentti",
+
+    "MAP_INFINITETOWER_TITLE": "Simulaakrum",
+    "MAP_INFINITETOWER_SUBTITLE": "Uhkasimulaatio",
+    "INFINITETOWER_ADD_ITEM": "<style=cWorldEvent>[VAROITUS] {1} on integroitu Simulaakrumiin...!</style>",
+
+    "INFINITETOWER_OBJECTIVE_AWAITINGACTIVATION": "Aktivoi Fokus",
+    "INFINITETOWER_OBJECTIVE_ACTIVE": "Selviydy..",
+    "INFINITETOWER_OBJECTIVE_TRAVEL": "Seuraa Fokusta",
+    "INFINITETOWER_OBJECTIVE_PORTAL": "Mene portaalista",
+
+    "INFINITE_TOWER_SAFE_WARD_NAME": "Arviointifokus",
+    "INFINITE_TOWER_SAFE_WARD_CONTEXT": "Aloita arviointi",
+
+    "PORTAL_INFINITETOWER_NAME": "Ääretön portaali",
+    "PORTAL_INFINITETOWER_CONTEXT": "Mene äärettömään portaaliin",
+
+    "INFINITETOWER_SUDDEN_DEATH": "Fokus alkaa horjua.."
+  }
+}

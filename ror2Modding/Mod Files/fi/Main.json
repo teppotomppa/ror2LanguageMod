@@ -1,0 +1,222 @@
+{
+  "strings": {
+    "GAME_TITLE": "Spacegame 2017",
+    "DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
+
+    "LOREM": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+
+    "TITLE_PROFILE": "Profiili: {0}",
+    "TITLE_PROFILE_DESC": "Vaihda tai luo uusi profiili.",
+    "TITLE_SINGLEPLAYER": "Yksinpeli",
+    "TITLE_SINGLEPLAYER_DESC": "Aloita soolopeli.",
+    "TITLE_MULTIPLAYER": "Moninpeli",
+    "TITLE_MULTIPLAYER_DESC": "Etsi tai kutsu pelaajia verkossa.",
+    "TITLE_WEEKLY": "Prismaattiset haasteet",
+    "TITLE_WEEKLY_DESC": "Kilpaile kiinteän siemenen haasteessa muiden pelaajien kanssa verkossa.",
+    "TITLE_SETTINGS": "Asetukset",
+    "TITLE_SETTINGS_DESC": "Muokkaa ohjaimia, näyttöä ja muuta.",
+    "TITLE_LOGS": "Lokikirja",
+    "TITLE_LOGS_DESC": "Lue tarinoita, hahmotietoja ja ohjeita uusien sisältöjen avaamiseen.",
+    "TITLE_UNLOCKABLES": "Haasteet",
+    "TITLE_MORE": "Musiikki ja muuta",
+    "TITLE_MORE_DESC": "Liity yhteisöihin, opi pelistä ja paljon muuta!",
+    "TITLE_SIGNUP": "Sähköpostilista",
+    "TITLE_SIGNUP_DESC": "Liity postituslistalle saadaksesi tulevia päivityksiä!",
+    "TITLE_EXIT": "Poistu työpöydälle",
+    "TITLE_EXIT_DESC": "Sulje Risk of Rain 2.",
+    "TITLE_EXTRAGAMEMODE": "Vaihtoehtoiset pelitilat",
+    "TITLE_EXTRAGAMEMODE_DESC": "Pelaa Risk of Rain 2:n vaihtoehtoisia pelitiloja, kuten Prismaattiset haasteet ja Auringonpimennys.",
+    "TITLE_ECLIPSE": "Auringonpimennys",
+    "TITLE_ECLIPSE_DESC": "Kehittynyt pelitila, joka lisää kasautuvia haasteita jokaisella läpäisykerralla.",
+    "TITLE_INFINITETOWER": "Simulacrum",
+    "TITLE_INFINITETOWER_DESC": "Pelaa aaltoihin perustuvaa areenatilaa, joka tapahtuu tyhjiön simulaatiossa.",
+
+    "TITLE_MULTIPLAYER_QUICKPLAY_START": "Aloita pikapeli",
+    "TITLE_MULTIPLAYER_QUICKPLAY_STOP": "Poistu pikapelistä",
+    "TITLE_MULTIPLAYER_HOST": "Aloita yksityinen peli",
+    "TITLE_MULTIPLAYER_JOIN": "Liity aulaan ID:llä",
+    "TITLE_MULTIPLAYER_INVITE": "Kutsu ystäviä",
+    "TITLE_MULTIPLAYER_RETURN": "Takaisin",
+    "TITLE_MULTIPLAYER_FIND_GAME": "Liity moninpeliin",
+    "TITLE_MULTIPLAYER_HOST_GAME": "Luo moninpeli",
+
+    "MORE_MUSIC": "MUSIIKKI",
+    "MORE_MUSIC_DESC": "Hei ystävä. Olen Chris, tämän pelin ääniraidan säveltäjä. Saatat tuntea minut alkuperäisestä Risk of Rainista tai siitä kahvilasta kadun toisella puolella. Olen tehnyt musiikkia ROR2:een jo neljä vuotta – paljon työtä, mutta todella palkitsevaa. Olen ylpeä näistä kappaleista.\r\nToivottavasti pidät niistä!\r\n\r\nVoit seurata minua Twitterissä tai Instagramissa (@AstronautDown) ja liittyä Discord-palvelimellemme!",
+    "MORE_MUSIC_BUTTON": "VIE MINUT SINNE!",
+    "MORE_CONTACT": "YHTEYSTIEDOT",
+    "MORE_CONTACT_DESC": "Seuraa meitä sosiaalisessa mediassa saadaksesi uusimmat uutiset ja päivitykset Risk of Rain 2:sta!",
+
+    "MORE_LICENSE": "LISENSSIT",
+    "MORE_LICENSE_DESC": "Tekijänoikeus (C) 2012–2022 Hopoo Games, LLC. Kaikki oikeudet pidätetään. \r\n\r\nTehty Unityllä. Unity on Unity Technologiesin tai sen tytäryhtiöiden tavaramerkki Yhdysvalloissa ja muualla. \r\n\r\nKäyttää Wwisea (C) 2006–2022 Audiokinetic Inc. Kaikki oikeudet pidätetään.\r\n\r\nKaikki muut tavaramerkit ja rekisteröidyt tavaramerkit kuuluvat omistajilleen.",
+
+    "DESC_MULTIPLAYER_QUICKPLAY": "Löydä pelaajia automaattisesti ja liity aulaan.",
+    "DESC_MULTIPLAYER_HOST": "Isännöi verkkomatsi, johon voivat liittyä paikalliset ja verkon pelaajat. 1–4 pelaajaa.",
+    "DESC_MULTIPLAYER_JOIN": "Yritä liittyä tiettyyn aulaan ID:llä.",
+    "DESC_MULTIPLAYER_INVITE": "Kutsu pelaajia Steam-kaverilistaltasi liittymään aulaan.",
+
+    "TITLE_WEEKLY_START": "Aloita Prismaattiset haasteet",
+    "WEEKLY_RUN_NO_ENTRY": "Sinun on suoritettava Prismaattinen haaste nähdäksesi muiden ajat.",
+    "WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT": "Prismaattiset haasteet – uusi siemen {0:00}:{1:00}:{2:00} päästä",
+    "WEEKLY_RUN_DESCRIPTION": "<style=cWorldEvent>'Prismaattiset haasteet'</style> antavat sinun kilpailla muiden pelaajien kanssa nopeimmasta ajasta. Kaikki pelaajat pelaavat saman siemenen maailmassa.\n\nVoittaaksesi <style=cWorldEvent>haasteen</style> sinun on rikottava <style=cWorldEvent>aikakiteet</style> ja suoritettava kaksi kenttää mahdollisimman nopeasti.\n\n<style=cStack><i>Parhaat 10% pelaajista palkitaan... ei vielä millään.</i></style>",
+    "WEEKLY_RUN_RANK": "Sijoitus",
+    "WEEKLY_RUN_NAME": "Nimi",
+    "WEEKLY_RUN_TIME": "Aika",
+
+    "CHARSELECT_RETURN": "Takaisin",
+    "DIFFICULTY_EASY_NAME": "Tihkusade",
+    "DIFFICULTY_EASY_DESCRIPTION": "Helpotettu vaikeustaso uusille pelaajille. Itku ja hammasten kiristys vaihtuvat nauruun ja kutituksiin.<style=cStack>\n\n>Elämän palautuminen: <style=cIsHealing>+50%</style>\n>Vahingon vähennys: <style=cIsHealing>+38%</style>\n>Vaikeuden kasvu: <style=cIsHealing>-50%</style></style>",
+
+    "DIFFICULTY_NORMAL_NAME": "Sade",
+    "DIFFICULTY_NORMAL_DESCRIPTION": "Tämä on tapa, jolla peli on tarkoitettu pelattavaksi! Testaa taitosi ja kykysi vaarallisia vihollisia vastaan.",
+
+    "DIFFICULTY_HARD_NAME": "Monsuuni",
+    "DIFFICULTY_HARD_DESCRIPTION": "Kokeneille pelaajille. Jokainen kulma tuo mukanaan kipua ja kauhuja. Tulet kuolemaan.<style=cStack>\n\n>Elämän palautuminen: <style=cIsHealth>-40%</style>\n>Vaikeuden kasvu: <style=cIsHealth>+50%</style></style>",
+
+    "USER_PROFILE_DELETE_HEADER": "Poista profiili",
+    "USER_PROFILE_DELETE_DESCRIPTION": "Haluatko varmasti poistaa profiilin \"<color=\"orange\">{0}</color>\"? Poistamista ei voi perua, ja kaikki avaukset, tilastot, asetukset ja ohjausmäärittelyt <style=cDeath>menetetään pysyvästi</style>.",
+    "USER_PROFILE_DELETE_YES": "Kyllä, olen varma!",
+    "USER_PROFILE_DELETE_NO": "Ei sittenkään...",
+
+    "SUBMENU_PROFILE": "Profiili",
+    "SUBMENU_SELECT": "Valitse",
+    "SUBMENU_BACK": "Takaisin",
+    "SUBMENU_ACCEPT": "Hyväksy",
+    "SUBMENU_SCROLL": "Selaa",
+    "SUBMENU_DELETE": "Poista",
+    "SUBMENU_QUIT": "Poistu",
+    "SUBMENU_SUBMENU_SELECT": "Vaihda",
+
+    "ACHIEVEMENTS_SCREEN_TITLE": "Haasteet",
+    "ACHIEVEMENT_CARD_REWARD_FORMAT": "Palkinto: {0}",
+    "ACHIEVEMENT_CARD_PREREQ_FORMAT": "Vaatii: {0}",
+    "CHAT_KEYBIND_TIP": "Paina Enter avataksesi chatin.",
+
+    "GAME_RESULT_LOST": "Tappio!",
+    "GAME_RESULT_WON": "Voitto!",
+    "GAME_RESULT_UNKNOWN": "Kohtalo tuntematon...",
+
+    "UNIDENTIFIED": "???",
+    "UNIDENTIFIED_DESCRIPTION": "Et ole vielä täyttänyt tämän haasteen vaatimuksia.",
+    "UNIDENTIFIED_KILLER_NAME": "Planeetta",
+    "DESCRIPTION_PREFIX_FORMAT": "Kuvaus:\n{0}",
+    "NOTES_PREFIX_FORMAT": "Huomioita:\n<style=cSub><size=80%>{0}</size></style>",
+
+    "GENERIC_PREFIX_FOUND": "Löydetty: <style=cEvent>{0}</style>",
+    "GENERIC_PREFIX_WINPERCENTAGE": "Voittoprosentti: <style=cEvent>{0}%</style>",
+    "BODY_HEALTH_FORMAT": "Maksimielämä: {0}",
+    "BODY_DAMAGE_FORMAT": "Vahinko: {0}",
+    "BODY_MOVESPEED_FORMAT": "Nopeus: {0} m/s",
+    "BODY_ARMOR_FORMAT": "Panssari: {0}",
+    "BODY_REGEN_FORMAT": "Elämän palautuminen: {0} hp/s",
+
+    "ITEM_PREFIX_STACKCOUNT": "Suurin pinomäärä: <style=cEvent>x{0}</style>",
+    "EQUIPMENT_PREFIX_COOLDOWN": "Latausaika: <style=cIsUtility>{0}s</style>",
+    "EQUIPMENT_PREFIX_USECOUNT": "Aktivointeja yhteensä: <style=cEvent>{0}</style>",
+    "EQUIPMENT_PREFIX_TOTALTIMEHELD": "Pidetty yhteensä: <style=cEvent>{0}</style>",
+    "MONSTER_PREFIX_KILLED": "Tapettu: <style=cEvent>{0}</style>",
+    "MONSTER_PREFIX_ELITESKILLED": "Eliittejä tapettu: <style=cEvent>{0}</style>",
+    "MONSTER_PREFIX_DEATH": "Tappaja: <style=cEvent>{0}</style>",
+
+    "STAGE_PREFIX_TOTALTIMESVISITED": "Vierailtu yhteensä: <style=cEvent>{0}</style>",
+    "STAGE_PREFIX_TOTALTIMESCLEARED": "Läpäisty yhteensä: <style=cEvent>{0}</style>",
+    "STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE": "Läpäisyprosentti: <style=cEvent>{0}%</style>",
+
+    "SURVIVOR_PREFIX_LONGESTRUN": "Pisin pelikerta: <style=cEvent>{0}</style>",
+    "SURVIVOR_PREFIX_TIMESPICKED": "Valittu: <style=cEvent>{0}</style>",
+    "SURVIVOR_PREFIX_PICKPERCENTAGE": "Valintaprosentti: <style=cEvent>{0:#00.00}%</style>",
+
+    "BODY_STATS_FORMAT": "{0} <style=cStack>(+{1} per taso)</style>",
+
+    "DIALOG_OPTION_YES": "Kyllä",
+    "DIALOG_OPTION_NO": "Ei",
+    "OK": "OK",
+    "CANCEL": "Peruuta",
+
+    "PLAYER_NAME_TOOLTIP_FORMAT": "Pelaaja: {0}",
+    "PLAYER_NAME_DISCONNECTED": "Yhteys katkaistu",
+    "PLAYER_NAME_UNAVAILABLE": "???",
+
+    "DISCONNECTED": "Yhteys katkaistu",
+    "KICK_REASON_UNSPECIFIED": "Syyä ei määritelty.",
+    "KICK_REASON_SERVERSHUTDOWN": "Isäntä on lopettanut pelin.",
+    "KICK_REASON_TIMEOUT": "Yhteys aikakatkaistiin.",
+    "KICK_REASON_KICK": "Potkittu palvelimelta.",
+    "KICK_REASON_BAN": "Estetty palvelimelta.",
+    "KICK_REASON_BADPASSWORD": "Virheellinen salasana.",
+    "KICK_REASON_BADVERSION": "Pelin versio eroaa palvelimen versiosta.\nSinun={0}\nPalvelin={1}",
+    "KICK_REASON_SERVERFULL": "Palvelin on täynnä.",
+    "KICK_REASON_ACCOUNT_ALREADY_ON_SERVER": "Tilisi on jo käytössä palvelimella, johon yritit liittyä.",
+    "KICK_REASON_MALFORMED_AUTH_DATA": "Liittymispyyntö oli virheellinen.",
+    "KICK_REASON_STEAMWORKS_AUTH_FAILURE": "Steamworks-todennus epäonnistui tai peruutettiin: {0}",
+    "KICK_REASON_MOD_MISMATCH": "Modisi eroavat palvelimen modeista. Peli-istuntoja ei voida yhdistää.\n\n== Yhteensopimattomat modit ==\n{0}\n\n== Vaaditut modit ==\n{1}\n",
+
+    "LEADERBOARDS": "Tulostaulukot",
+    "LEADERBOARDS_GLOBAL": "MAAILMANLAAJUINEN",
+    "LEADERBOARDS_FRIENDS": "YSTÄVÄT",
+
+    "PROFILE_TITLE": "Valitse profiili",
+    "PROFILE_CREATE_NEW": "Luo profiili",
+    "PROFILE_ENTER": "Avaa",
+    "PROFILE_SELECT": "Valitse",
+    "PROFILE_DEL": "Poista",
+    "PROFILE_DELETE": "Poista",
+    "PROFILE_CREATE_PROFILE": "Luo profiili",
+    "PROFILE_ADD": "Lisää",
+
+    "PAUSE_RESUME": "Jatka",
+    "PAUSE_SETTINGS": "Asetukset",
+    "PAUSE_QUIT_TO_MENU": "Poistu valikkoon",
+    "PAUSE_QUIT_TO_DESKTOP": "Poistu työpöydälle",
+
+    "SPECTATING_NAME_FORMAT": "Katselet: {0}",
+
+    "QUIT_RUN_CONFIRM_DIALOG_TITLE": "Lopeta peli?",
+    "QUIT_RUN_CONFIRM_DIALOG_BODY_SINGLEPLAYER": "Haluatko varmasti lopettaa tämän pelikerran?",
+    "QUIT_RUN_CONFIRM_DIALOG_BODY_CLIENT": "Haluatko varmasti poistua? Jätät tiimikaverisi jälkeen.",
+    "QUIT_RUN_CONFIRM_DIALOG_BODY_HOST": "Olet pelin isäntä, ja poistuminen nyt <style=cDeath>lopettaa pelin kaikilta muilta pelaajilta</style>. Haluatko varmasti poistua?",
+
+    "CONTROLLER_DISCONNECTED_DIALOG_TITLE": "Ohjain irrotettu",
+    "CONTROLLER_DISCONNECTED_DIALOG_BODY": "Ohjain on irrotettu.",
+
+    "STARTUP_FAILURE_DIALOG_TITLE": "Käynnistysvirhe",
+
+    "MSVCR_2015_BAD_INSTALL_DIALOG_BODY": "Peli ei onnistunut lataamaan tarvittavaa kirjastoa ongelman vuoksi Microsoft Visual C++ 2015 Redistributable (x64) -asennuksessa. Alla oleva painike avaa Microsoftin lataussivun. Jos asennus epäonnistuu, koska redistribuutiopaketti on jo asennettu, sinun <i>täytyy poistaa se</i> ja yrittää uudelleen. Tämä koskee myös uudempia versioita (2017 tai 2019), jotka estävät 2015-version asennuksen niiden jälkeen.\n\nPeli sulkeutuu, kun tämä viesti suljetaan.",
+    "MSVCR_2015_BAD_INSTALL_DIALOG_DOWNLOAD_BUTTON": "Lataa Redistributable",
+
+    "ARENA_HUD_MONSTERS_LABEL": "Hirviöt",
+    "ARENA_HUD_MONSTER_ITEMS_LABEL": "Hirviöiden esineet",
+
+    "IMMUNE_TO_DAMAGE_HITMARKER": "IMMUNE",
+    "BLOCKED_DAMAGE_HITMARKER": "ESTETTY!",
+    "EXTRALIFE_REVIVED_EFFECT": "HERÄTETTY!",
+    "EXTRALIFEVOID_REVIVED_EFFECT": "HERÄTETTY..?",
+
+    "SCOREBOARD_HEADER_PLAYERS": "Pelaajat",
+    "SCOREBOARD_HEADER_ITEMS": "Esineet",
+    "SCOREBOARD_HEADER_EQUIPMENT": "Varuste",
+
+    "HUD_LEVEL_PREFIX": "Taso:",
+
+    "LANGUAGE_PLATFORM": "Oletus ({0})",
+
+    "CUTSCENE_SKIP": "Ohita",
+
+    "PERCENT_FORMAT": "<nobr>{0:0.0%}</nobr>",
+    "PERCENT_FORMAT_PARENTHESES": "<nobr>({0:0.0%})</nobr>",
+
+    "EXPANSION_PURCHASED_REQUIRED_FORMAT": "Vaatii lisäosan \"{0}\" ostamisen.",
+    "EXPANSION_ENABLED_REQUIRED_FORMAT": "Vaatii, että \"{0}\" on käytössä.",
+
+    "FIRST_TIME_CROSSPLAY_POPUP_HEADER": "Uusia selviytyjiä on saapunut!",
+    "FIRST_TIME_CROSSPLAY_POPUP_DESCRIPTION": "Olemme innoissamme toivottaessamme uudet selviytyjät tervetulleiksi Petrichor V:hen! Risk of Rain 2 tukee nyt ristiinpelaamista kaikilla PC-alustoilla!\n\nOta PC-crossplay käyttöön napsauttamalla alla olevaa \"Ota cross-play käyttöön\" -painiketta tai menemällä kohtaan Asetukset > Pelattavuus milloin tahansa (vaatii uudelleenkäynnistyksen)!\n\nSaat lisätietoa cross-playstä tai tukea napsauttamalla \"Lisätietoja\"-painiketta.",
+    "FIRST_TIME_CROSSPLAY_POPUP_DISABLE_CROSSPLAY": "Ota cross-play käyttöön",
+    "FIRST_TIME_CROSSPLAY_POPUP_INFO": "Lisätietoja",
+
+    "SIGNUP_TITLE": "Liity Hopoo Gamesin sähköpostilistalle!",
+    "SIGNUP_DESC": "Saat erikoispäivityksiä suoraan sähköpostiisi!",
+    "SIGNUP_SUBMIT": "Lähetä",
+    "SIGNUP_WAIT": "Lähetetään...",
+    "SIGNUP_SUCCESS": "Kiitos!",
+    "SIGNUP_FAILURE": "Virhe. Yritetäänkö uudelleen?"
+  }
+}

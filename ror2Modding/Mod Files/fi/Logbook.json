@@ -1,0 +1,30 @@
+{
+  "strings": {
+    "LOGBOOK": "Lokikirja",
+    "LOGBOOK_CATEGORY_ITEMANDEQUIPMENT": "Esineet ja varusteet",
+    "LOGBOOK_CATEGORY_ITEM": "Esine",
+    "LOGBOOK_CATEGORY_EQUIPMENT": "Varuste",
+    "LOGBOOK_CATEGORY_ACHIEVEMENTS": "Haaste",
+
+    "LOGBOOK_CATEGORY_MONSTER": "Hirviö",
+    "LOGBOOK_CATEGORY_STAGE": "Ympäristö",
+    "LOGBOOK_CATEGORY_SURVIVOR": "Selviytyjä",
+    "LOGBOOK_CATEGORY_FRAGMENT": "Sirpale",
+    "LOGBOOK_CATEGORY_STATS": "Profiilitilastot",
+    "LOGBOOK_CATEGORY_MORGUE": "Pelihistoria",
+
+    "LOGBOOK_UNLOCK_ITEM_LOG": "Löydä tämä esine maailmasta avataksesi merkinnän.",
+    "LOGBOOK_UNLOCK_ITEM_MONSTER": "Kukista tämä hirviö saadaksesi mahdollisuuden avata merkinnän.",
+    "LOGBOOK_UNLOCK_ITEM_STAGE": "Etsi ja korjaa tutkatorni kentällä avataksesi tämän merkinnän.",
+    "LOGBOOK_UNLOCK_ITEM_SURVIVOR": "Läpäise peli tällä selviytyjällä avataksesi merkinnän.",
+    "LOGBOOK_UNLOCK_ITEM_FRAGMENT": "Tämän merkinnän avausehto on tuntematon.",
+
+    "LOGBOOK_HOVER_DESCRIPTION_FORMAT": "<mark=#{2}><b>[ {0} ]</b>\n\n</mark><style=cSub>{1}</style>",
+    "LOGBOOK_ZOOMINOUT": "Liiku",
+    "LOGBOOK_ROTATE": "Kierrä",
+    "LOGBOOK_PAN": "Siirrä näkymää",
+
+    "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_TITLE_FORMAT": "{0}",
+    "LOGBOOK_ENTRY_RUNREPORT_TOOLTIP_BODY_FORMAT": "<nobr>Luokka: {0}</nobr>\n<nobr>Tila: {1}</nobr>\n<nobr>Loppu: {2}</nobr>"
+  }
+}

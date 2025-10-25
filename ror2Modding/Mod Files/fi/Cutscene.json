@@ -1,0 +1,61 @@
+{
+  "strings": {
+    "CUTSCENE_INTRO_FLAVOR_1": "UES 'Safe Travels'",
+    "CUTSCENE_INTRO_FLAVOR_2": "UES 'Contact Light'in viimeiset tunnetut koordinaatit",
+    "CUTSCENE_INTRO_SUBTITLE_1": "Olemme perillä, kapteeni. Hätäsignaali tuli tarkalta tältä koordinaatilta.",
+    "CUTSCENE_INTRO_SUBTITLE_2": "Tämä planeetta... ei ole missään tuntemissamme tähtikartoissa. Tämä alue ei edes ole reitillä...",
+    "CUTSCENE_INTRO_SUBTITLE_3": "Näkyykö Contact Lightiä?",
+    "CUTSCENE_INTRO_SUBTITLE_4": "Ei, herra... ainoastaan hylyjä.",
+    "CUTSCENE_INTRO_SUBTITLE_5": "Merkkejä eloonjääneistä?",
+    "CUTSCENE_INTRO_SUBTITLE_6": "....Ei, herra. Bioskanneri on pimeänä.",
+    "CUTSCENE_INTRO_SUBTITLE_7": "Herra... hätäsignaali. Siinä mainittiin... siinä mainittiin paljon.",
+    "CUTSCENE_INTRO_SUBTITLE_8": "Hirviöitä, ja taistelua, ja...",
+    "CUTSCENE_INTRO_SUBTITLE_9": "...Herra... luuletko että olemme valmiita?",
+    "CUTSCENE_INTRO_SUBTITLE_10": "Herra?",
+
+    "GENERIC_OUTRO_FLAVOR": "..ja niin se lähti, toivoen merkitystä.",
+    "GENERIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin se katosi, niin lähellä pelastumista.",
+
+    "COMMANDO_OUTRO_FLAVOR": "..ja niin hän lähti, uusien käskyjen ja uusien kysymysten kanssa.",
+    "COMMANDO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, vain yksi numero kadonneiden listalla.",
+
+    "HUNTRESS_OUTRO_FLAVOR": "..ja niin hän lähti, ikävöiden seuraavaa suurta jahtaustaan.",
+    "HUNTRESS_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, eikä koskaan kerännyt enää.",
+
+    "ENGI_OUTRO_FLAVOR": "..ja niin hän lähti, uusien inspiraatioiden kanssa.",
+    "ENGI_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, kykenemättä selittämään silminnäkemiään.",
+
+    "TREEBOT_OUTRO_FLAVOR": "..ja niin se lähti, valmiina kasvamaan joksikin suuremmaksi.",
+    "TREEBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin se katosi, pysyen edelleen yhtenä.",
+
+    "CROCO_OUTRO_FLAVOR": "..ja niin se lähti, vapauden harhoissa.",
+    "CROCO_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin se katosi, otettu viimeisen kerran.",
+
+    "LOADER_OUTRO_FLAVOR": "..ja niin hän lähti, sydän yhä hakkaen.",
+    "LOADER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, vauhti pysähtyen ikuisesti.",
+
+    "MERC_OUTRO_FLAVOR": "..ja niin hän lähti, unelmoiden hyvästä ruuasta ja rauhallisesta yöstä.",
+    "MERC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, muuttuen satuksi.",
+
+    "CAPTAIN_OUTRO_FLAVOR": "..ja niin hän lähti, uuden tarinan kerrottavana.",
+    "CAPTAIN_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, vapautuneena elinikäisestä paperityöstä.",
+
+    "TOOLBOT_OUTRO_FLAVOR": "..ja niin se lähti, valmiina latautumaan.",
+    "TOOLBOT_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin se katosi, toimintakyvytön ikuisesti.",
+
+    "MAGE_OUTRO_FLAVOR": "..ja niin hän lähti, rakastuneena uuteen intohimoonsa: tutkimusmatkoihin.",
+    "MAGE_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, paikkansa ikuisesti tyhjänä.",
+
+    "BANDIT2_OUTRO_FLAVOR": "..ja niin hän lähti, kiitollinen onnestaan.",
+    "BANDIT2_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, täynnä katumusta.",
+
+    "HERETIC_OUTRO_FLAVOR": "..ja niin he lähtivät, katkerasti kostettuina ja syvästi eksyneinä.",
+    "HERETIC_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin he katosivat, kaksi tarinaa päättyen yhtenä.",
+
+    "RAILGUNNER_OUTRO_FLAVOR": "..ja niin hän lähti, valmiina ottamaan laukauksensa.",
+    "RAILGUNNER_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "..ja niin hän katosi, näkymättömiin.",
+
+    "VOIDSURVIVOR_OUTRO_FLAVOR": "『..ja n?iin s?e t?ulee】... 「m?eid?än k?aikk?ien tähden.』",
+    "VOIDSURVIVOR_MAIN_ENDING_ESCAPE_FAILURE_FLAVOR": "『..j?a n?iin s?e k?at?osi』, 「k?uisk?aus p?im?e?ydessä』"
+  }
+}

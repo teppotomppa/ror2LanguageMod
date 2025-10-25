@@ -1,0 +1,72 @@
+{
+  "strings": {
+    "BROTHER_DIALOGUE_FORMAT": "<color=#c6d5ff><size=120%>Mithrix: {0}</color></size>",
+
+    "BROTHER_SPAWN_PHASE1_1": "Rukoile.",
+    "BROTHER_SPAWN_PHASE1_2": "Kerjä.",
+    "BROTHER_SPAWN_PHASE1_3": "Kuole.",
+    "BROTHER_SPAWN_PHASE1_4": "Tule teurastetuksi.",
+
+    "BROTHER_DAMAGEDEALT_1": "Vuoda.",
+    "BROTHER_DAMAGEDEALT_2": "Nyt on pelon aika.",
+    "BROTHER_DAMAGEDEALT_3": "Heikko.",
+    "BROTHER_DAMAGEDEALT_4": "Hauras - ja pehmeä.",
+    "BROTHER_DAMAGEDEALT_5": "Olet mitätön.",
+    "BROTHER_DAMAGEDEALT_6": "Virhe.",
+    "BROTHER_DAMAGEDEALT_7": "Kirkaise, mato.",
+    "BROTHER_DAMAGEDEALT_8": "Murskaannun minun allani.",
+    "BROTHER_DAMAGEDEALT_9": "Hidas.",
+    "BROTHER_DAMAGEDEALT_10": "Kehosi murtuu.",
+
+    "BROTHER_KILL_1": "Palaa multaan.",
+    "BROTHER_KILL_2": "Nöyryydy, mato.",
+    "BROTHER_KILL_3": "Kuole, mato.",
+    "BROTHER_KILL_4": "Kuole, heikko.",
+    "BROTHER_KILL_5": "Muutu muistoiksi.",
+
+    "BROTHER_SEE_HERETIC_1": "Katso matkaasi, Kerettiläinen.",
+    "BROTHER_SEE_HERETIC_2": "Kuole uudelleen, Kerettiläinen.",
+
+    "BROTHER_KILL_HERETIC_1": "Palaa palasiksi, Kerettiläinen.",
+    "BROTHER_KILL_HERETIC_2": "Kuole uudelleen, Kerettiläinen.",
+
+    "BROTHER_KILL_MECHANICAL_1": "Alempiarvoinen kone. Rikki.",
+    "BROTHER_KILL_MECHANICAL_2": "Alkeellinen romu.",
+    "BROTHER_KILL_MECHANICAL_3": "Purettu osiin.",
+
+    "BROTHERHURT_DAMAGEDEALT_1": "VUODA.",
+    "BROTHERHURT_DAMAGEDEALT_2": "KIRKAISE.",
+    "BROTHERHURT_DAMAGEDEALT_3": "MISSÄ ON VAikutusvaltasi?",
+    "BROTHERHURT_DAMAGEDEALT_4": "HETKELLINEN VOIMA.",
+    "BROTHERHURT_DAMAGEDEALT_5": "Haura.",
+    "BROTHERHURT_DAMAGEDEALT_6": "SÄRKY.",
+    "BROTHERHURT_DAMAGEDEALT_7": "VÄÄRÄ VOIMA.",
+    "BROTHERHURT_DAMAGEDEALT_8": "TYHJENE.",
+    "BROTHERHURT_DAMAGEDEALT_9": "KUOLE, MATO.",
+    "BROTHERHURT_DAMAGEDEALT_10": "HEIKKO, ILMAN KORUJASI JA HÖMPÖTYKSIÄSI.",
+
+    "BROTHERHURT_KILL_1": "KUOLE.",
+    "BROTHERHURT_KILL_2": "HEIKKO.",
+    "BROTHERHURT_KILL_3": "HYÖDYTTÖMÄ.",
+    "BROTHERHURT_KILL_4": "KUTEN AJATTELINKIN...",
+    "BROTHERHURT_KILL_5": "MATO.",
+
+    "BROTHERHURT_DEATH_1": "EI... EI NYT...",
+    "BROTHERHURT_DEATH_2": "MIKSI... MIKSI NYT...?",
+    "BROTHERHURT_DEATH_3": "EI... EI...!",
+    "BROTHERHURT_DEATH_4": "VELJENI... AUTA MINUA...!",
+    "BROTHERHURT_DEATH_5": "TASANGO PIMENEE... VELJENI... EN NÄE SINUA... MISSÄ OLET...?",
+    "BROTHERHURT_DEATH_6": "VELJENI... EHKÄPÄ... ONNISTUMME... SEURAAvalla KERRALLA...",
+
+    "BROTHERHURT_SEE_TITANGOLD_1": "VAHDINTA...? MAHdotonta...!",
+    "BROTHERHURT_SEE_TITANGOLD_2": "SE Kirottu VAHDINTA...!",
+
+    "BROTHERHURT_SEE_TITANGOLD_AND_HERETIC_1": "KERETTILÄINEN… VAHDINTA… MITEN? KUKA VETÄÄ NARUJANNE, MATO?",
+
+    "BROTHERHURT_KILL_TITANGOLD_1": "ET VOI VASTUSTAA MINUA, VAHDINTA",
+    "BROTHERHURT_KILL_TITANGOLD_2": "PALAa MULTAAN, VAHDINTA.",
+
+    "BROTHERHURT_KILL_HERETIC_1": "PALAa PALASIKSI, KERETTILÄINEN.",
+    "BROTHERHURT_KILL_HERETIC_2": "KUOLE UUDELLEEN, KERETTILÄINEN."
+  }
+}
