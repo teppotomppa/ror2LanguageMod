@@ -1,7 +1,0 @@
-{
-  "name": "Teppotomppas_language_mod",
-  "version_number": "1.0.1",
-  "website_url": "",
-  "description": "A mod that translates the language to Finnish",
-  "dependencies": ["tristanmcpherson-R2API-4.3.5"]
-}

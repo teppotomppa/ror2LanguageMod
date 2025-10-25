@@ -1,0 +1,12 @@
+{
+    "name": "FinnishTranslation",
+    "description": "A complete Finnish translation for Risk of Rain 2",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "bbepis-BepInExPack-5.4.2100",
+        "RiskofThunder-R2API_Core-5.1.7",
+        "RiskofThunder-R2API_Language-1.0.1"
+    ],
+    "website_url": "",
+    "author": "YourName"
+}
