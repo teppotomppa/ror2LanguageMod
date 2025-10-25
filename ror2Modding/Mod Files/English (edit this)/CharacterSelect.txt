@@ -1,24 +1,24 @@
 {
 	"strings":
 	{
-		"CHARACTER_SELECT_TITLE": "Character Select",
-		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Select a Survivor",
-		"SURVIVOR_OVERVIEW": "Overview",
-		"SURVIVOR_SKILLS": "Skills",
-		"SURVIVOR_LOADOUT": "Loadout",
-		"CHARACTER_SELECT_READY": "Ready",
-		"CHARACTER_SELECT_LOCKED_IN": "Locked In",
+		"CHARACTER_SELECT_TITLE": "Hahmonvalinta",
+		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Valitse selviytyjä",
+		"SURVIVOR_OVERVIEW": "Yleiskuva",
+		"SURVIVOR_SKILLS": "Taidot",
+		"SURVIVOR_LOADOUT": "Varustus",
+		"CHARACTER_SELECT_READY": "Valmis",
+		"CHARACTER_SELECT_LOCKED_IN": "Vahvistettu",
 		
-		"LOADOUT_SKILL_PRIMARY": "Primary",
-		"LOADOUT_SKILL_SECONDARY": "Secondary",
-		"LOADOUT_SKILL_UTILITY": "Utility",
-		"LOADOUT_SKILL_SPECIAL": "Special",
-		"LOADOUT_SKILL_MISC": "Misc",
-		"LOADOUT_SKIN": "Skin",
+		"LOADOUT_SKILL_PRIMARY": "Ensisijainen",
+		"LOADOUT_SKILL_SECONDARY": "Toissijainen",
+		"LOADOUT_SKILL_UTILITY": "Apuväline",
+		"LOADOUT_SKILL_SPECIAL": "Erikois",
+		"LOADOUT_SKILL_MISC": "Sekalaista",
+		"LOADOUT_SKIN": "Ulkoasu",
 
 		"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
 
-		"RANDOM_VOTE_NAME" : "Randomize",
-		"RANDOM_VOTE_DESCRIPTION" : "Vote for random choices.",
+		"RANDOM_VOTE_NAME" : "Satunnainen",
+		"RANDOM_VOTE_DESCRIPTION" : "Äänestä satunnaisia valintoja.",
 	}
 }
